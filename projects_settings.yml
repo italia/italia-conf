@@ -1,0 +1,109 @@
+projects:
+  -
+    name: 18app
+    short_name: 18app
+    description: "18App e Carta Docente sono due programmi previsti dalla legge con i quali viene assegnato un bonus economico (€500) a determinate categorie di persone dette beneficiari (rispettivamente, tutti i 18enni e i docenti di ruolo) da spendere con specifici vincoli (in cultura e formazione) presso esercenti accreditati."
+    website: https://www.18app.italia.it/
+    documents:
+      - name: Guida a 18app per gli esercenti
+        repository: 18app-esercenti-docs
+  -
+    name: Anagrafe Nazionale della Popolazione Residente
+    short_name: ANPR
+    description: "L’Anagrafe Nazionale della Popolazione Residente (ANPR) è la banca dati nazionale nella quale confluiranno progressivamente le anagrafi comunali."
+    website: https://anpr.interno.it/
+    documents:
+      - name: Documentazione tecnica
+        repository: anpr # la documentazione è dentro "/src"
+  -
+    name: "Data & Analytics Framework"
+    short_name: DAF
+    description: "Il Data & Analytics Framework è una delle attività atte a valorizzare il patrimonio informativo pubblico nazionale approvata dal Governo italiano nell’ambito del Piano Triennale per l’Informatica nella PA."
+    website: https://github.com/italia/daf
+    documents:
+      - name: Piano di sviluppo
+        repository: daf-piano-di-sviluppo # la documentazione è dentro "/rst"
+      - name: Developer documentation
+        repository: daf-docs
+      - name: Linee guida nazionali per la valorizzazione del patrimonio informativo pubblico
+        repository: lg-patrimonio-pubblico # la documentazione è dentro "/rst"
+      - name: Linee guida per i cataloghi dati
+        repository: linee-guida-cataloghi-dati-dcat-ap-it
+      - name: Schede informative basi di dati di interesse nazionale
+        repository: pianotri-schede-bdin
+      - name: Elenco basi di dati chiave
+        repository: pianotri-elencobasidatichiave
+      - name: DAF Dataportal - manuale per l’utente
+        repository: daf-dataportal-it-docs
+  -
+    name: Designers Italia
+    short_name: Designers Italia
+    description: "Designers Italia è il punto di riferimento per il design della Pubblica Amministrazione: guide, strumenti e un forum per favorire la collaborazione e promuovere il ruolo dello human centered design nello sviluppo dei servizi pubblici."
+    website: https://designers.italia.it/
+    documents:
+      - name: Linee guida di design per i servizi web della Pubblica Amministrazione
+        repository: design-docs
+      - name: Guida al linguaggio della Pubblica Amministrazione
+        repository: writing-toolkit
+  -
+    name: Developers Italia
+    short_name: Developers Italia
+    description: "La comunità degli sviluppatori che progettano e realizzano i servizi pubblici digitali in Italia"
+    website: https://developers.italia.it/
+    documents:
+      - name: Linee guida su acquisizione e riuso di software per le pubbliche amministrazioni
+        repository: lg-acquisizione-e-riuso-software-per-pa-docs # il repo è sotto github.com/AGID
+  -
+    name: Dipartimento della Funzione Pubblica
+    short_name: Funzione Pubblica
+    description: "Il Dipartimento della funzione pubblica è una struttura della Presidenza del Consiglio dei ministri della Repubblica Italiana. Nell'ambito del Dipartimento opera l'Ispettorato per la funzione pubblica."
+    website: http://www.funzionepubblica.gov.it/
+    documents:
+      - name: Linee guida per il sistema di misurazione e valutazione della performance
+        repository: lg-misuraperformance-docs
+      - name: Accesso civico generalizzato. Norme sull'attuazione, circolare n. 2 del 2017
+        repository: foia-circolare2-docs
+  -
+    name: PagoPA
+    short_name: PagoPA
+    description: "PagoPA è il nodo di pagamenti della Pubblica Amministrazione. È una piattaforma che connette tra loro cittadini, Pubblica Amministrazione e i Prestatori di Servizi di Pagamento (PSP) per effettuare pagamenti verso la Pubblica Amministrazione in sicurezza e con semplicità."
+    website: https://www.agid.gov.it/it/piattaforme/pagopa
+    documents:
+      - name: Specifiche attuative del nodo dei pagamenti SPC
+        repository: pagopa-specifichepagamenti-docs
+      - name: FAQ
+        repository: pagopa-docs-faq
+      - name: Specifiche attuative dei codici identificativi di versamento, riversamento e rendicondazione
+        repository: pagopa-codici-docs
+      - name: Linee guida pagamenti elettronici a favore delle Pubbliche Amministrazioni e dei gestori di pubblici servizi
+        repository: lg-pagopa-docs
+  -
+    name: Piano Triennale per l'informatica nella Pubblica Amministrazione.
+    short_name: Piano Triennale ICT
+    description: "Il Piano Triennale è il documento di indirizzo strategico ed economico destinato a tutta la Pubblica Amministrazione che accompagna la trasformazione digitale del Paese."
+    website: https://pianotriennale-ict.italia.it/
+    documents:
+      - name: Piano triennale
+        repository: pianotriennale-ict-doc
+      - name: Codice dell'amministrazione digitale
+        repository: cad-docs
+      - name: Censimento ICT
+        repository: censimento-ict
+      - name: Cloud PA
+        repository: cloud.italia.it
+  -
+    name: Relazioni commissioni parlamentari
+    short_name: Comm. parlamentari
+    description: "Relazioni e documenti di commissioni parlamentari"
+    website:
+    documents:
+      - name: "Relazione della commissione parlamentare d'inchiesta sulla digitalizzazione e l'innovazione della PA."
+        repository: relazionecommissionedigitale-docs
+  -
+    name: Sistema Pubblico di Identità Digitale
+    short_name: SPID
+    description: "SPID è una credenziale unica di accesso, con identità verificata, che può essere integrata secondo lo standard SAML su siti pubblici e privati."
+    website: https://www.spid.gov.it/
+    documents:
+      - name: Regole tecniche
+        repository: spid-regole-tecniche
