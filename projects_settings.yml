@@ -6,7 +6,10 @@ projects:
     website: https://www.18app.italia.it/
     documents:
       - name: Guida a 18app per gli esercenti
+        title: Guida a 18app per gli esercenti
         repository: 18app-esercenti-docs
+    title: 18app
+    short-name: 18app
   -
     name: Anagrafe Nazionale della Popolazione Residente
     short_name: ANPR
@@ -14,7 +17,10 @@ projects:
     website: https://anpr.interno.it/
     documents:
       - name: Documentazione tecnica
+        title: Documentazione tecnica
         repository: anpr # la documentazione è dentro "/src"
+    title: Anagrafe Nazionale della Popolazione Residente
+    short-name: ANPR
   -
     name: "Data & Analytics Framework"
     short_name: DAF
@@ -22,19 +28,28 @@ projects:
     website: https://github.com/italia/daf
     documents:
       - name: Piano di sviluppo
+        title: Piano di sviluppo
         repository: daf-piano-di-sviluppo # la documentazione è dentro "/rst"
       - name: Developer documentation
+        title: Developer documentation
         repository: daf-docs
       - name: Linee guida nazionali per la valorizzazione del patrimonio informativo pubblico
+        title: Linee guida nazionali per la valorizzazione del patrimonio informativo pubblico
         repository: lg-patrimonio-pubblico # la documentazione è dentro "/rst"
       - name: Linee guida per i cataloghi dati
+        title: Linee guida per i cataloghi dati
         repository: linee-guida-cataloghi-dati-dcat-ap-it
       - name: Schede informative basi di dati di interesse nazionale
+        title: Schede informative basi di dati di interesse nazionale
         repository: pianotri-schede-bdin
       - name: Elenco basi di dati chiave
+        title: Elenco basi di dati chiave
         repository: pianotri-elencobasidatichiave
       - name: DAF Dataportal - manuale per l’utente
+        title: DAF Dataportal - manuale per l’utente
         repository: daf-dataportal-it-docs
+    title: "Data & Analytics Framework"
+    short-name: DAF
   -
     name: Designers Italia
     short_name: Designers Italia
@@ -42,9 +57,13 @@ projects:
     website: https://designers.italia.it/
     documents:
       - name: Linee guida di design per i servizi web della Pubblica Amministrazione
+        title: Linee guida di design per i servizi web della Pubblica Amministrazione
         repository: design-docs
       - name: Guida al linguaggio della Pubblica Amministrazione
+        title: Guida al linguaggio della Pubblica Amministrazione
         repository: writing-toolkit
+    title: Designers Italia
+    short-name: Designers Italia
   -
     name: Developers Italia
     short_name: Developers Italia
@@ -52,7 +71,10 @@ projects:
     website: https://developers.italia.it/
     documents:
       - name: Linee guida su acquisizione e riuso di software per le pubbliche amministrazioni
+        title: Linee guida su acquisizione e riuso di software per le pubbliche amministrazioni
         repository: lg-acquisizione-e-riuso-software-per-pa-docs # il repo è sotto github.com/AGID
+    title: Developers Italia
+    short-name: Developers Italia
   -
     name: Dipartimento della Funzione Pubblica
     short_name: Funzione Pubblica
@@ -60,9 +82,13 @@ projects:
     website: http://www.funzionepubblica.gov.it/
     documents:
       - name: Linee guida per il sistema di misurazione e valutazione della performance
+        title: Linee guida per il sistema di misurazione e valutazione della performance
         repository: lg-misuraperformance-docs
       - name: Accesso civico generalizzato. Norme sull'attuazione, circolare n. 2 del 2017
+        title: Accesso civico generalizzato. Norme sull'attuazione, circolare n. 2 del 2017
         repository: foia-circolare2-docs
+    title: Dipartimento della Funzione Pubblica
+    short-name: Funzione Pubblica
   -
     name: PagoPA
     short_name: PagoPA
@@ -70,13 +96,19 @@ projects:
     website: https://www.agid.gov.it/it/piattaforme/pagopa
     documents:
       - name: Specifiche attuative del nodo dei pagamenti SPC
+        title: Specifiche attuative del nodo dei pagamenti SPC
         repository: pagopa-specifichepagamenti-docs
       - name: FAQ
+        title: FAQ
         repository: pagopa-docs-faq
       - name: Specifiche attuative dei codici identificativi di versamento, riversamento e rendicondazione
+        title: Specifiche attuative dei codici identificativi di versamento, riversamento e rendicondazione
         repository: pagopa-codici-docs
       - name: Linee guida pagamenti elettronici a favore delle Pubbliche Amministrazioni e dei gestori di pubblici servizi
+        title: Linee guida pagamenti elettronici a favore delle Pubbliche Amministrazioni e dei gestori di pubblici servizi
         repository: lg-pagopa-docs
+    title: PagoPA
+    short-name: PagoPA
   -
     name: Piano Triennale per l'informatica nella Pubblica Amministrazione.
     short_name: Piano Triennale ICT
@@ -84,13 +116,19 @@ projects:
     website: https://pianotriennale-ict.italia.it/
     documents:
       - name: Piano triennale
+        title: Piano triennale
         repository: pianotriennale-ict-doc
       - name: Codice dell'amministrazione digitale
+        title: Codice dell'amministrazione digitale
         repository: cad-docs
       - name: Censimento ICT
+        title: Censimento ICT
         repository: censimento-ict
       - name: Cloud PA
+        title: Cloud PA
         repository: cloud.italia.it
+    title: Piano Triennale per l'informatica nella Pubblica Amministrazione.
+    short-name: Piano Triennale ICT
   -
     name: Relazioni commissioni parlamentari
     short_name: Comm. parlamentari
@@ -98,7 +136,10 @@ projects:
     website:
     documents:
       - name: "Relazione della commissione parlamentare d'inchiesta sulla digitalizzazione e l'innovazione della PA."
+        title: "Relazione della commissione parlamentare d'inchiesta sulla digitalizzazione e l'innovazione della PA."
         repository: relazionecommissionedigitale-docs
+    title: Relazioni commissioni parlamentari
+    short-name: Comm. parlamentari
   -
     name: Sistema Pubblico di Identità Digitale
     short_name: SPID
@@ -106,4 +147,7 @@ projects:
     website: https://www.spid.gov.it/
     documents:
       - name: Regole tecniche
+        title: Regole tecniche
         repository: spid-regole-tecniche
+    title: Sistema Pubblico di Identità Digitale
+    short-name: SPID
