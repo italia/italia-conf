@@ -4,7 +4,7 @@ projects:
     description: "18App e Carta Docente sono due programmi previsti dalla legge con i quali viene assegnato un bonus economico (€500) a determinate categorie di persone dette beneficiari (rispettivamente, tutti i 18enni e i docenti di ruolo) da spendere con specifici vincoli (in cultura e formazione) presso esercenti accreditati."
     website: https://www.18app.italia.it/
     documents:
-      - 18app-esercenti-docs
+      - 18app-esercenti-docs # la documentazione è dentro "/rst"
     logo: assets/images/logo-18app-512x512.png
   -
     name: Anagrafe Nazionale della Popolazione Residente
