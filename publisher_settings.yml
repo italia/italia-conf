@@ -1,12 +1,9 @@
 publisher:
   name: Italia
   description: "GitHub Italia è l'organizzazione GitHub di Developers Italia, la comunità dedicata allo sviluppo di software open-source a supporto dei servizi pubblici digitali Italiani."
-  github_organization_url: https://github.com/italia
   logo: assets/images/logo-italia-512x512.png
-  website: www.example.com
-  short_name: test
+  website: https://developers.italia.it/
+  short_name: IT
   tags:
     - italia
     - organizzazione
-  address: test
-  motto: test
