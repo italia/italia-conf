@@ -1,4 +1,4 @@
-# File di configurazione per la pubblicazione su Docs Italia
+# File di configurazione per l'organizzazione Italia
 
 Questo repository contiene i file di configurazione in accordo a quanto descritto nello [Starter Kit](https://github.com/italia/docs-italia-starter-kit/tree/master/repo-configurazione) per la pubblicazione su Docs Italia:
 
