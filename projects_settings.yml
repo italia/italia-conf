@@ -85,3 +85,9 @@ projects:
     website: https://www.spid.gov.it/
     documents:
       - spid-regole-tecniche
+  - 
+    name: Docs Italia
+    description: "Docs Italia è la piattaforma per i documenti tecnici e amministrativi della Pubblica Amministrazione"
+    website: https://docs.italia.it
+    documents:
+      - docs-italia-guide
