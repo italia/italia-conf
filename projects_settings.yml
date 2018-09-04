@@ -74,6 +74,7 @@ projects:
       - cad-docs
       - censimento-ict
       - cloud.italia.it
+      - lg-modellointeroperabilita-docs
   -
     name: Relazioni commissioni parlamentari
     description: "Relazioni e documenti di commissioni parlamentari"
