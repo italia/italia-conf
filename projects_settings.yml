@@ -39,6 +39,7 @@ projects:
     documents:
       - design-docs
       - writing-toolkit
+      - lg-competenzedigitali-docs
   -
     name: Developers Italia
     description: "La comunità degli sviluppatori che progettano e realizzano i servizi pubblici digitali in Italia"
