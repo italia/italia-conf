@@ -20,6 +20,13 @@ projects:
       - comuni
       - anagrafe
   -
+    name: "Carta d'identità elettronica"
+    short_name: CIE
+    description: "La nuova Carta di identità elettronica è il documento personale che attesta l’identità del cittadino. È realizzata in materiale plastico, dalle dimensioni di una carta di credito e dotata di sofisticati elementi di sicurezza e di un microchip a radiofrequenza (RF) che memorizza i dati del titolare."
+    website: https://www.cartaidentita.interno.gov.it/
+    documents:
+      - cie-middleware-windows-docs
+  -
     name: "Data & Analytics Framework"
     short_name: DAF
     description: "Il Data & Analytics Framework è una delle attività atte a valorizzare il patrimonio informativo pubblico nazionale approvata dal Governo italiano nell’ambito del Piano Triennale per l’Informatica nella PA."
