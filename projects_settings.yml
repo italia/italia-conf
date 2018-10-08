@@ -72,6 +72,7 @@ projects:
       - pagopa-specifichepagamenti-docs
       - pagopa-docs-faq
       - pagopa-codici-docs
+      - pagopa-avvisoanalogico-docs
       - lg-pagopa-docs
   -
     name: Piano Triennale per l'informatica nella Pubblica Amministrazione.
