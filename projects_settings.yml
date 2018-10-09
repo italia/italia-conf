@@ -44,7 +44,7 @@ projects:
     description: "Designers Italia è il punto di riferimento per il design della Pubblica Amministrazione: guide, strumenti e un forum per favorire la collaborazione e promuovere il ruolo dello human centered design nello sviluppo dei servizi pubblici."
     website: https://designers.italia.it/
     documents:
-      - design-docs
+      - design-linee-guida-docs
       - writing-toolkit
       - design-scuole-docs
       - lg-competenzedigitali-docs
