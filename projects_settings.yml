@@ -81,7 +81,7 @@ projects:
     website: https://pianotriennale-ict.italia.it/
     documents:
       - pianotriennale-ict-doc
-      - cad-docs
+      - codice-amministrazione-digitale-docs
       - censimento-ict
       - cloud.italia.it
       - lg-modellointeroperabilita-docs
