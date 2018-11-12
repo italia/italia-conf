@@ -50,12 +50,6 @@ projects:
       - lg-competenzedigitali-docs
       - lg-comunicazione-docs
   -
-    name: Developers Italia
-    description: "La comunità degli sviluppatori che progettano e realizzano i servizi pubblici digitali in Italia"
-    website: https://developers.italia.it/
-    documents:
-      - lg-acquisizione-e-riuso-software-per-pa-docs # il repo è sotto github.com/AGID
-  -
     name: Dipartimento della Funzione Pubblica
     short_name: Funzione Pubblica
     description: "Il Dipartimento della funzione pubblica è una struttura della Presidenza del Consiglio dei ministri della Repubblica Italiana. Nell'ambito del Dipartimento opera l'Ispettorato per la funzione pubblica."
