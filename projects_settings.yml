@@ -20,7 +20,7 @@ projects:
       - comuni
       - anagrafe
   -
-    name: "Carta d'identità elettronica"
+    name: "Carta d’identità elettronica"
     short_name: CIE
     description: "La nuova Carta di identità elettronica è il documento personale che attesta l’identità del cittadino. È realizzata in materiale plastico, dalle dimensioni di una carta di credito e dotata di sofisticati elementi di sicurezza e di un microchip a radiofrequenza (RF) che memorizza i dati del titolare."
     website: https://www.cartaidentita.interno.gov.it/
@@ -52,7 +52,7 @@ projects:
   -
     name: Dipartimento della Funzione Pubblica
     short_name: Funzione Pubblica
-    description: "Il Dipartimento della funzione pubblica è una struttura della Presidenza del Consiglio dei ministri della Repubblica Italiana. Nell'ambito del Dipartimento opera l'Ispettorato per la funzione pubblica."
+    description: "Il Dipartimento della funzione pubblica è una struttura della Presidenza del Consiglio dei ministri della Repubblica Italiana. Nell’ambito del Dipartimento opera l’Ispettorato per la funzione pubblica."
     website: http://www.funzionepubblica.gov.it/
     documents:
       - lg-misuraperformance-docs
@@ -70,7 +70,7 @@ projects:
       - lg-pagopa-docs
       - pagopa-docs-overview
   -
-    name: Piano Triennale per l'informatica nella Pubblica Amministrazione.
+    name: "Piano Triennale per l’informatica nella Pubblica Amministrazione"
     short_name: Piano Triennale ICT
     description: "Il Piano Triennale è il documento di indirizzo strategico ed economico destinato a tutta la Pubblica Amministrazione che accompagna la trasformazione digitale del Paese."
     website: https://pianotriennale-ict.italia.it/
@@ -80,6 +80,8 @@ projects:
       - codice-amministrazione-digitale-docs
       - censimento-ict
       - cloud.italia.it
+      - cloud-docs
+      - cloud-circolari-docs
       - lg-modellointeroperabilita-docs
   -
     name: Relazioni commissioni parlamentari
