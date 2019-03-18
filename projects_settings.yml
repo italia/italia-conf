@@ -76,6 +76,7 @@ projects:
       - pagopa-avvisoanalogico-docs
       - lg-pagopa-docs
       - pagopa-docs-overview
+      - pagopa-portaledelleadesioni-docs
   -
     name: "Piano Triennale per l’informatica nella Pubblica Amministrazione"
     short_name: Piano Triennale ICT
