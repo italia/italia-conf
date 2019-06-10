@@ -112,8 +112,8 @@ projects:
     documents:
       - docs-italia-guide
   - 
-    name: Cloud Enablement Program
-    description: "Cloud Enablement Program"
+    name: Manuale di abilitazione al cloud
+    description: "Manuale di abilitazione al cloud"
     website: https://docs.italia.it
     documents:
-      - cloud-enablement-program-docs
+      - manuale-di-abilitazione-al-cloud-docs
