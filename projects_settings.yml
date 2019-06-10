@@ -111,3 +111,9 @@ projects:
     website: https://docs.italia.it
     documents:
       - docs-italia-guide
+  - 
+    name: Cloud Enablement Program
+    description: "Cloud Enablement Program"
+    website: https://docs.italia.it
+    documents:
+      - cloud-enablement-program-docs
