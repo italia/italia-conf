@@ -80,7 +80,7 @@ projects:
       - pagopa-docs-overview
       - pagopa-portaledelleadesioni-docs
   -
-    name: "Piano Triennale per l’informatica nella Pubblica Amministrazione"
+    name: "Piano Triennale per l'informatica nella Pubblica Amministrazione"
     short_name: Piano Triennale ICT
     description: "Il Piano Triennale è il documento di indirizzo strategico ed economico destinato a tutta la Pubblica Amministrazione che accompagna la trasformazione digitale del Paese."
     website: https://pianotriennale-ict.italia.it/
