@@ -58,6 +58,8 @@ projects:
       - publiccode.yml # documentazione dentro a "/docs"
       - lg-acquisizione-e-riuso-software-per-pa-docs
       - gl-acquisition-and-reuse-software-for-pa-docs
+      - policy-inserimento-catalogo-docs
+
   -
     name: Dipartimento della Funzione Pubblica
     short_name: Funzione Pubblica
