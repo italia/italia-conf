@@ -59,7 +59,13 @@ projects:
       - lg-acquisizione-e-riuso-software-per-pa-docs
       - gl-acquisition-and-reuse-software-for-pa-docs
       - policy-inserimento-catalogo-docs
-
+  -
+    name: Ministro per l’innovazione tecnologica e la digitalizzazione
+    short_name: MID
+    description: ""
+    website: https://innovazione.gov.it/
+    documents:
+      - piano-nazionale-innovazione-2025-docs
   -
     name: Dipartimento della Funzione Pubblica
     short_name: Funzione Pubblica
