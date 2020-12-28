@@ -59,6 +59,7 @@ projects:
       - lg-acquisizione-e-riuso-software-per-pa-docs
       - gl-acquisition-and-reuse-software-for-pa-docs
       - policy-inserimento-catalogo-docs
+      - guida-sviluppo-gestione-software-libero
   -
     name: Ministro per l’innovazione tecnologica e la digitalizzazione
     short_name: MID
