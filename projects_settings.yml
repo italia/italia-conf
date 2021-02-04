@@ -26,6 +26,8 @@ projects:
     website: https://www.cartaidentita.interno.gov.it/
     documents:
       - cie-middleware-windows-docs
+      - cie-manuale-operativo-docs
+      - cie-manuale-tecnico-docs
   -
     name: "Data & Analytics Framework"
     short_name: DAF
