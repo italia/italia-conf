@@ -131,6 +131,7 @@ projects:
       - manuale-di-abilitazione-al-cloud-docs
   -
     name: Presidenza del Consiglio dei Ministri
+    short_name: PCM
     description: "Documenti relativi alla Presidenza del Consiglio dei Ministri"
     website: https://www.governo.it/
     documents:
