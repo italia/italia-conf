@@ -52,6 +52,7 @@ projects:
       - design-comuni-docs
       - lg-competenzedigitali-docs
       - lg-comunicazione-docs
+      - lg-design-servizi-web
   -
     name: Developers Italia
     description: "Developers Italia è il punto di riferimento per gli sviluppatori di software open source per la Pubblica Amministrazione. Il portale contiene strumenti di sviluppo, documentazione e il catalogo del riuso di software open source per la PA."
