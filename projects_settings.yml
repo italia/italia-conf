@@ -52,6 +52,10 @@ projects:
       - design-comuni-docs
       - lg-competenzedigitali-docs
       - lg-comunicazione-docs
+  -
+    name: Design
+    description: Design
+    documents:
       - lg-design-servizi-web
   -
     name: Developers Italia
