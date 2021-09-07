@@ -53,6 +53,12 @@ projects:
       - lg-competenzedigitali-docs
       - lg-comunicazione-docs
   -
+    name: Design
+    description: Design
+    website: https://designers.italia.it/
+    documents:
+      - lg-design-servizi-web
+  -
     name: Cloud Italia
     description: La strategia nazionale del Cloud per la PA
     website: https://cloud.italia.it/
