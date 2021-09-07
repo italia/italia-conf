@@ -53,10 +53,12 @@ projects:
       - lg-competenzedigitali-docs
       - lg-comunicazione-docs
   -
-    name: Design
-    description: Design
+    name: Cloud Italia
+    description: La strategia nazionale del Cloud per la PA
+    website: https://cloud.italia.it/
     documents:
-      - lg-design-servizi-web
+      - strategia-cloud-italia-docs
+      - italian-cloud-strategy-docs
   -
     name: Developers Italia
     description: "Developers Italia è il punto di riferimento per gli sviluppatori di software open source per la Pubblica Amministrazione. Il portale contiene strumenti di sviluppo, documentazione e il catalogo del riuso di software open source per la PA."
