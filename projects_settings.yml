@@ -150,3 +150,10 @@ projects:
     website: https://www.governo.it/
     documents:
       - piano-transizione-digitale-pcm-docs
+  -
+    name: Ministero del Turismo
+    short_name: MiTur  
+    description: "Documenti relativi al Ministero del Turismo"    
+    website: https://www.ministeroturismo.gov.it    
+    documents: 
+      - lg-tourism-digital-hub-interoperabilita-docs 
