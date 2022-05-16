@@ -160,3 +160,10 @@ projects:
     documents: 
       - lg-tourism-digital-hub-interoperabilita-docs
       - gl-tourism-digital-hub-interoperabilita-docs
+  - 
+    name: Istituto centrale per la digitalizzazione del patrimonio culturale
+    short_name: ICDP
+    description: "Documenti relativi all'Istituto centrale per la digitalizzazione del patrimonio culturale"
+    website: https://digitallibrary.cultura.gov.it/
+    documents:
+      - ICDP-PND-docs
