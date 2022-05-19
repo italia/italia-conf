@@ -167,3 +167,8 @@ projects:
     website: https://digitallibrary.cultura.gov.it/
     documents:
       - ICDP-PND-docs
+      - ICDP-PND-servizi-docs
+      - ICDP-PND-circolazione-riuso-docs
+      - ICDP-PND-dmp-docs
+      - ICDP-PND-digitalizzazione-docs
+      - ICDP-PND-maturita-docs
