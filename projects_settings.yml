@@ -161,7 +161,7 @@ projects:
       - lg-tourism-digital-hub-interoperabilita-docs
       - gl-tourism-digital-hub-interoperabilita-docs
   - 
-    name: ICDP - Piano nazionale di digitalizzazione del patrimonio culturale
+    name: "ICDP - Piano nazionale di digitalizzazione del patrimonio culturale"
     short_name: ICDP
     description: "Documenti relativi all'Istituto centrale per la digitalizzazione del patrimonio culturale"
     website: https://digitallibrary.cultura.gov.it/
