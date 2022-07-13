@@ -55,6 +55,7 @@ projects:
       - lg-competenzedigitali-docs
       - lg-comunicazione-docs
       - manuale-operativo-design-docs
+      - design-report-ricerca-comuni-docs
   -
     name: Design
     description: Design
