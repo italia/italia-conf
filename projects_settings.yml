@@ -179,7 +179,7 @@ projects:
       - ICDP-PND-maturita-docs
   -
     name: Repubblica Digitale
-    description: " Repubblica Digitale è l’iniziativa strategica nazionale che ha l’obiettivo di ridurre il divario digitale e promuovere l’educazione sulle tecnologie del futuro, supportando il processo di sviluppo del Paese"
+    description: "Repubblica Digitale è l’iniziativa strategica nazionale che ha l’obiettivo di ridurre il divario digitale e promuovere l’educazione sulle tecnologie del futuro, supportando il processo di sviluppo del Paese"
     website: https://repubblicadigitale.innovazione.gov.it/
     documents:
       - repubblica-digitale-digcomp-docs
