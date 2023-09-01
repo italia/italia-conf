@@ -29,6 +29,7 @@ projects:
       - cie-manuale-operativo-docs
       - cie-manuale-tecnico-docs
       - cie-accessi-pinless-manuale-docs
+      - cie-eid-saml-docs
   -
     name: "Data & Analytics Framework"
     short_name: DAF
