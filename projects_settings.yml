@@ -30,6 +30,7 @@ projects:
       - cie-manuale-tecnico-docs
       - cie-accessi-pinless-manuale-docs
       - cie-eid-saml-docs
+      - cie-eid-sdk-docs
   -
     name: "Data & Analytics Framework"
     short_name: DAF
