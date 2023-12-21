@@ -59,6 +59,8 @@ projects:
       - manuale-operativo-design-docs
       - design-report-ricerca-comuni-docs
       - app-valutazione-modelli-docs
+      - design-asl-docs
+      - design-musei-docs
   -
     name: Design
     description: Design
