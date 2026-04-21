@@ -61,6 +61,7 @@ projects:
       - app-valutazione-modelli-docs
       - design-asl-docs
       - design-musei-docs
+      - design-UX-cittadini-once-only-docs
   -
     name: Design
     description: Design
