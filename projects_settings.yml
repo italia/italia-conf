@@ -85,6 +85,7 @@ projects:
       - gl-acquisition-and-reuse-software-for-pa-docs
       - policy-inserimento-catalogo-docs
       - guida-sviluppo-gestione-software-libero
+      - pdnd-guida-nomenclatura-eservice
   -
     name: Ministro per l’innovazione tecnologica e la digitalizzazione
     short_name: MID
